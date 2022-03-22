@@ -1,0 +1,7 @@
+
+
+Hello
+
+It's day 2 warmup.
+
+Having fun with Git classes.
